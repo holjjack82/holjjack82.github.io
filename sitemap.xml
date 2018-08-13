@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>holjjack82.github.io/post/first/</loc>
+    <loc>/post/first/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/categories/golang/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>holjjack82.github.io/tags/hugo/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/post/</loc>
+    <loc>/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/categories/programming/</loc>
+    <loc>/post/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/tags/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>holjjack82.github.io/tags/theme/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/theme/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
     <priority>0</priority>
   </url>

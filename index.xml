@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JEFF</title>
-    <link>holjjack82.github.io/</link>
+    <link>/</link>
     <description>Recent content on JEFF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,15 +10,15 @@
     <webMaster>your-email (your-name)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="holjjack82.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post title</title>
-      <link>holjjack82.github.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>holjjack82.github.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>으하하하하하하하</description>
     </item>
     

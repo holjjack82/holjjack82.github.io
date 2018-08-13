@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JEFF</title>
-    <link>holjjack82.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on JEFF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,24 +10,24 @@
     <webMaster>your-email (your-name)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="holjjack82.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>holjjack82.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>holjjack82.github.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>holjjack82.github.io/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>holjjack82.github.io/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
     
