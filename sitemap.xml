@@ -4,7 +4,17 @@
   
   <url>
     <loc>/post/first/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/third/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,44 +23,74 @@
   </url>
   
   <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/development/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/go/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/golang/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/html/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/theme/</loc>
-    <lastmod>2016-10-19T23:35:00+09:00</lastmod>
+    <loc>/tags/%EC%B2%98%EC%9D%8C/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
